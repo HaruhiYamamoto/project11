@@ -11,7 +11,7 @@
 ### クライアントアプリ
 HTML CSS　JavaScript
 ### webブラウザ
-コピー履歴管理WEBアプリ
+フレーズ管理WEBアプリ
 
 ### サーバーアプリ
 PHP
